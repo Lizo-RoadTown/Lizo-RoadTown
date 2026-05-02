@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:eaeef2&height=140&section=header" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:5cabd6&height=140&section=header" alt="header" />
 
 ## Liz Osborn
 
@@ -30,6 +30,6 @@ Most of what's here is in progress.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:eaeef2,100:ffffff&height=80&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5cabd6,100:0077B5&height=80&section=footer" alt="footer" />
 
 </div>
