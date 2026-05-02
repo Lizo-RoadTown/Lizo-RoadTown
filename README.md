@@ -2,7 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:eaeef2&height=140&section=header" alt="header" />
 
-**Cal Poly Pomona**
+## Liz Osborn
+
+**Human-Centered Systems**
+
+<sub>Cal Poly Pomona</sub>
 
 <br>
 
