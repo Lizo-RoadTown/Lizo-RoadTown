@@ -18,16 +18,6 @@
 
 <br>
 
----
-
-### Hi, I'm Liz.
-
-I build things that help me see how systems actually work. Mostly knowledge systems, research infrastructure, and a few side experiments.
-
-Most of what's here is in progress.
-
-<br>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5cabd6,100:0077B5&height=80&section=footer" alt="footer" />
