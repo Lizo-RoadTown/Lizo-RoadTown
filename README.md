@@ -4,7 +4,7 @@
 
 ## Liz Osborn
 
-**Human-Centered Systems**
+**Human Centered Systems**
 
 <sub>Cal Poly Pomona</sub>
 
