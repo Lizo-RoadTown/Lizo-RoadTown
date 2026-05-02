@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:2d2d44&height=200&section=header&text=Liz%20Osborn&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:eaeef2&height=140&section=header" alt="header" />
 
 **Cal Poly Pomona**
 
@@ -18,14 +18,14 @@
 
 ### Hi, I'm Liz.
 
-I'm an engineering student at Cal Poly Pomona. I like making things carefully, paying attention to the way people work together, and the small details that turn out to matter most.
+I build things that help me see how systems actually work. Mostly knowledge systems, research infrastructure, and a few side experiments.
 
-Glad you stopped by.
+Most of what's here is in progress.
 
 <br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2d44,100:1e1e2e&height=80&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:eaeef2,100:ffffff&height=80&section=footer" alt="footer" />
 
 </div>
